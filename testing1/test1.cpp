@@ -7,6 +7,7 @@ using namespace std;
 
 int main() {
 	cout << "debug";
+	cout << "debug 2";
 	return 0;
 }
 void fperror(DWORD errCode) {
